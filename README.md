@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imalessdev/System-Cisoj/main/Assets/screenshot.png" alt="Dashboard System Cisoj" width="85%" />
+  <img src="screenshot.png" alt="Dashboard System Cisoj" width="85%" />
 </p>
 
 <table align="center">
