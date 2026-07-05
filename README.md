@@ -40,12 +40,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imalessdev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalessdev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imalessdev&theme=github_dark" alt="Profile Details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imalessdev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imalessdev&theme=github_dark" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imalessdev&theme=github_dark" alt="Stats" width="48%" />
 </p>
 
 ---
@@ -86,11 +86,24 @@
 
 <p align="center">
   <a href="https://github.com/imalessdev/System-Cisoj">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imalessdev&repo=System-Cisoj&theme=github_dark&hide_border=true&show_owner=true" alt="System Cisoj" />
+    <img src="https://img.shields.io/badge/📂_System_Cisoj-181717?style=for-the-badge&logo=github&logoColor=white" alt="System Cisoj" />
   </a>
 </p>
 
-**System Cisoj** — Aplicación de escritorio WPF para gestión administrativa de CISOJ PERU. Clientes, servicios, matrículas, carreras/especialidades y reportes en PDF/Word/Excel con .NET 10 + Supabase PostgreSQL.
+<table align="center">
+<tr>
+<td align="center">
+  <strong>System Cisoj</strong><br/>
+  <sub>Aplicación de escritorio WPF para gestión administrativa de CISOJ PERU</sub><br/><br/>
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <br/>
+  🧑‍💼 Clientes · 📋 Servicios · 📝 Matrículas · 🎓 Carreras · 📄 Reportes PDF/Word/Excel
+</td>
+</tr>
+</table>
 
 ---
 
