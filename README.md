@@ -18,7 +18,7 @@
 <tr>
 <td>
 
-- 🔭 **Actualmente trabajando en** [System Cisoj](https://github.com/imalessdev/System-Cisoj) — Sistema de gestión interna WPF con .NET 10 y Supabase
+- 🔭 **Actualmente trabajando en** [Management System Cisoj](https://github.com/imalessdev/Management-System-Cisoj) — Sistema de gestión interna WPF con .NET 10 y Supabase
 - 🌱 **Aprendiendo** Fullstack avanzado e integración de IA en desarrollo de software
 - 👯 **Buscando colaborar en** Proyectos open-source y aplicaciones web Fullstack
 - 🤝 **Necesito ayuda con** Integraciones avanzadas en Android Studio y patrones Fullstack complejos
@@ -77,19 +77,19 @@
 ## 📌 Proyecto Destacado
 
 <p align="center">
-  <a href="https://github.com/imalessdev/System-Cisoj">
-    <img src="https://img.shields.io/badge/📂_System_Cisoj-181717?style=for-the-badge&logo=github&logoColor=white" alt="System Cisoj" />
+  <a href="https://github.com/imalessdev/Management-System-Cisoj">
+    <img src="https://img.shields.io/badge/📂_Management_System_Cisoj-181717?style=for-the-badge&logo=github&logoColor=white" alt="Management System Cisoj" />
   </a>
 </p>
 
 <p align="center">
-  <img src="screenshot.png" alt="Dashboard System Cisoj" width="85%" />
+  <img src="https://raw.githubusercontent.com/imalessdev/Management-System-Cisoj/master/Assets/screenshot.png" alt="Dashboard Management System Cisoj" width="85%" />
 </p>
 
 <table align="center">
 <tr>
 <td align="center">
-  <strong>System Cisoj</strong><br/>
+  <strong>Management System Cisoj</strong><br/>
   <sub>Aplicación de escritorio WPF para gestión administrativa de CISOJ PERU</sub><br/><br/>
   <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white" />
