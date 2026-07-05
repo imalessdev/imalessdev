@@ -80,22 +80,16 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
----
-
-## 🖼️ Dashboard System Cisoj
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imalessdev/System-Cisoj/main/Assets/screenshot.png" alt="Dashboard System Cisoj" width="90%" />
-</p>
-
----
-
 ## 📌 Proyecto Destacado
 
 <p align="center">
   <a href="https://github.com/imalessdev/System-Cisoj">
     <img src="https://img.shields.io/badge/📂_System_Cisoj-181717?style=for-the-badge&logo=github&logoColor=white" alt="System Cisoj" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imalessdev/System-Cisoj/main/Assets/screenshot.png" alt="Dashboard System Cisoj" width="85%" />
 </p>
 
 <table align="center">
