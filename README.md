@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imalessdev&theme=github_dark" alt="Repos per Language" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imalessdev&theme=github_dark" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imalessdev&theme=github_dark&utcOffset=-5" alt="Productive Time" width="48%" />
 </p>
 
 ---
