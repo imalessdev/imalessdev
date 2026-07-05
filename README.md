@@ -82,6 +82,14 @@
 
 ---
 
+## 🖼️ Dashboard System Cisoj
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imalessdev/System-Cisoj/main/Assets/screenshot.png" alt="Dashboard System Cisoj" width="90%" />
+</p>
+
+---
+
 ## 📌 Proyecto Destacado
 
 <p align="center">
