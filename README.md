@@ -113,10 +113,10 @@
   <a href="https://github.com/imalessdev">
     <img src="https://img.shields.io/badge/GitHub-imalessdev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Agrega aqui tus redes sociales:
-  <a href="URL_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-imalessdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/piero-poma-b0845a345/">
+    <img src="https://img.shields.io/badge/LinkedIn-Piero_Poma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!-- Agrega aqui tu portafolio u otras redes:
   <a href="URL_DE_TU_SITIO">
     <img src="https://img.shields.io/badge/Portfolio-imalessdev-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
