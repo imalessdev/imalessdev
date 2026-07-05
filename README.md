@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Imaless%20Dev&fontSize=60&fontAlignY=35&animation=twinkling" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
-
-<!-- Agrega aqui tu banner personalizado:
-<p align="center">
-  <img src="URL_DE_TU_BANNER" alt="Banner" width="100%" />
-</p>
--->
 
 <h1 align="center">👋 ¡Hola! Soy Imaless Dev</h1>
 <h3 align="center">Fullstack Developer | .NET & WPF | Laravel & PHP | Apasionado por la tecnologia</h3>
